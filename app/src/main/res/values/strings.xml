@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">PM25</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_settings_label">Station</string>
+    <string name="text_view_air_quality_label">Air Quality</string>
+    <string name="text_view_station">Station</string>
+    <string name="text_view_pm25">PM 2.5:</string>
+    <string name="text_view_time">Published:</string>
+
+    <string-array name="counties">
+        <item>宜蘭縣</item>
+        <item>花蓮縣</item>
+        <item>金門縣</item>
+        <item>南投縣</item>
+        <item>屏東縣</item>
+        <item>苗栗縣</item>
+        <item>桃園市</item>
+        <item>高雄市</item>
+        <item>基隆市</item>
+        <item>連江縣</item>
+        <item>雲林縣</item>
+        <item>新北市</item>
+        <item>新竹市</item>
+        <item>新竹縣</item>
+        <item>嘉義市</item>
+        <item>嘉義縣</item>
+        <item>彰化縣</item>
+        <item>臺中市</item>
+        <item>臺北市</item>
+        <item>臺東縣</item>
+        <item>臺南市</item>
+        <item>澎湖縣</item>
+    </string-array>
+
+    <string-array name="_0">
+        <item>冬山</item>
+        <item>宜蘭</item>
+    </string-array>
+
+    <string-array name="_1">
+        <item>花蓮</item>
+    </string-array>
+
+    <string-array name="_2">
+        <item>金門</item>
+    </string-array>
+
+    <string-array name="_3">
+        <item>埔里</item>
+        <item>竹山</item>
+        <item>南投</item>
+    </string-array>
+
+    <string-array name="_4">
+        <item>恆春</item>
+        <item>潮州</item>
+        <item>屏東</item>
+    </string-array>
+
+    <string-array name="_5">
+        <item>三義</item>
+        <item>苗栗</item>
+        <item>頭份</item>
+    </string-array>
+
+    <string-array name="_6">
+        <item>中壢</item>
+        <item>龍潭</item>
+        <item>平鎮</item>
+        <item>觀音</item>
+        <item>桃園</item>
+    </string-array>
+
+    <string-array name="_7">
+        <item>復興</item>
+        <item>小港</item>
+        <item>前鎮</item>
+        <item>前金</item>
+        <item>左營</item>
+        <item>楠梓</item>
+        <item>林園</item>
+        <item>大寮</item>
+        <item>鳳山</item>
+        <item>仁武</item>
+        <item>橋頭</item>
+        <item>美濃</item>
+    </string-array>
+
+    <string-array name="_8">
+        <item>基隆</item>
+    </string-array>
+
+    <string-array name="_9">
+        <item>馬祖</item>
+    </string-array>
+
+    <string-array name="_10">
+        <item>麥寮</item>
+        <item>臺西</item>
+        <item>崙背</item>
+        <item>斗六</item>
+    </string-array>
+
+    <string-array name="_11">
+        <item>永和</item>
+        <item>三重</item>
+        <item>淡水</item>
+        <item>林口</item>
+        <item>菜寮</item>
+        <item>新莊</item>
+        <item>板橋</item>
+        <item>土城</item>
+        <item>新店</item>
+        <item>萬里</item>
+        <item>汐止</item>
+    </string-array>
+
+    <string-array name="_12">
+        <item>新竹</item>
+    </string-array>
+
+    <string-array name="_13">
+        <item>竹東</item>
+        <item>湖口</item>
+    </string-array>
+
+    <string-array name="_14">
+        <item>嘉義</item>
+    </string-array>
+
+    <string-array name="_15">
+        <item>朴子</item>
+        <item>新港</item>
+    </string-array>
+
+    <string-array name="_16">
+        <item>二林</item>
+        <item>線西</item>
+        <item>彰化</item>
+    </string-array>
+
+    <string-array name="_17">
+        <item>西屯</item>
+        <item>忠明</item>
+        <item>大里</item>
+        <item>沙鹿</item>
+        <item>豐原</item>
+    </string-array>
+
+    <string-array name="_18">
+        <item>陽明</item>
+        <item>大同</item>
+        <item>松山</item>
+        <item>古亭</item>
+        <item>萬華</item>
+        <item>中山</item>
+        <item>士林</item>
+    </string-array>
+
+    <string-array name="_19">
+        <item>關山</item>
+        <item>臺東</item>
+    </string-array>
+
+    <string-array name="_20">
+        <item>臺南</item>
+        <item>安南</item>
+        <item>善化</item>
+        <item>新營</item>
+    </string-array>
+
+    <string-array name="_21">
+        <item>馬公</item>
+    </string-array>
+
+</resources>

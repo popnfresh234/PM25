@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#38A4DC</color>
+    <color name="primaryColorDark">#1A87C8</color>
+    <color name="accentColor">#9175B4</color>
+
+    <color name="green">#4caf50</color>
+    <color name="green100">#c8e6c9</color>
+
+    <color name="yellow">#ffeb3b</color>
+    <color name="yellow100">#fff9c4</color>
+
+    <color name="orange">#ff9800</color>
+    <color name="orange100">#ffe0b2</color>
+
+    <color name="red">#f44336</color>
+    <color name="red100">#ffcdd2</color>
+
+    <color name="purple">#673ab7</color>
+    <color name="purple100">#d1c4e9</color>
+
+
+
+
+    <color name="PRESSED_STATE_COLOR">#38A4DC</color>
+    <color name="FOCUSED_STATE_COLOR">#38A4DC</color>
+    <color name="NORMAL_STATE_COLOR">#1A87C8</color>
+
+    <color name="transparentWhite">#80ffffff</color>
+</resources>
